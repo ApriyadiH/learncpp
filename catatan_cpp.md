@@ -7,6 +7,8 @@ Beberapa bagian ditulis __PELAJARI ULANG__ yang akan dipelajari kembali nanti.
 Terima kasih untuk situs [Learn C+++](https://www.learncpp.com/)  
 
 ## 0 Introduction / Getting Started
+Mulai: 2024 Oktober 28  
+Selesai: 2024 November 6  
 
 ### 0.1 Introduction to these tutorials
 Mulai: 2024 Oktober 28  
@@ -319,9 +321,10 @@ Selesai: 2024 November 6
 
 ### 0.13 What language standard is my compiler using?
 Mulai: 2024 November 6  
-Selesai: 2024 November  
+Selesai: 2024 November 6    
 
 - bagian ini learncpp menyediakan kode untuk memeriksa hasil.
 - file disimpan dengan nama "PrintStandard.cpp"
 - hasilnya kalau dijalankan jadi C++17, tapi kalau dicompile jadi release dan build, hasilnya C++23. Agak aneh dan aku gk tau cara mengubah versi singkat run. Untuk saat ini dianggap aman aja.
 
+## 1 

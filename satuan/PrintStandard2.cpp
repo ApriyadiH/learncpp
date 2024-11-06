@@ -2,6 +2,7 @@
 // Freely redistributable, courtesy of learncpp.com (https://www.learncpp.com/cpp-tutorial/what-language-standard-is-my-compiler-using/)
 
 #include <iostream>
+#include <limits>
 
 const int numStandards = 7;
 // The C++26 stdCode is a placeholder since the exact code won't be determined until the standard is finalized
@@ -58,6 +59,5 @@ int main()
     std::cin.clear(); 
     std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n'); 
     std::cin.get();
-
     return 0;
 }
